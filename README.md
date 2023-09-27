@@ -11,7 +11,7 @@
 
 This is a simple project which displays list of products in grid view and you can add the product to cart and from cart you can buy this product using stripe
 
-To use this application,
+To use this application, Fist clone this project from here then,
 
 1. create a database named stripe
 2. use php artisan migrate command to migrate all the tables to your database
